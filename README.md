@@ -1,3 +1,3 @@
 # app-android
 
-| [ios-app](../ios-app)  | ios-appios-app |
+| [app-ios](../../../app-ios)  | x |
